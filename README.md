@@ -105,3 +105,5 @@ pillow
 * [keras](https://keras.io/) - deep learning framework
 * [pytorch](https://pytorch.org/) - optimized tensor library for deep learning using GPUs and CPUs
 * [opencv-python](https://github.com/skvark/opencv-python) - open source computer vision library
+
+# Adding on my own frequently used libraries to create a centralized docker environment for deploying code on different systems
